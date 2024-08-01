@@ -1,4 +1,4 @@
-Hi, I'm Anderson 👋
+Hi, I'm Anderson! 
 ![image](https://github.com/user-attachments/assets/138b07dd-7add-48a7-bc3e-3db32027ea29)
 
 <!--
