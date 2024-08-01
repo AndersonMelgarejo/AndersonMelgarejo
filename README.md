@@ -1,4 +1,5 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/b7626970-f101-4646-bb3e-01d5b799c517)![image](https://github.com/user-attachments/assets/d5b8ff5f-f82e-4917-ad1c-d82250661a36)Hi, I'm Anderson 👋
+![image](https://github.com/user-attachments/assets/138b07dd-7add-48a7-bc3e-3db32027ea29)
 
 <!--
 **AndersonMelgarejo/AndersonMelgarejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
