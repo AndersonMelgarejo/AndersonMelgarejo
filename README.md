@@ -1,5 +1,5 @@
 <h2 align="center"> Hi, I'm Anderson! <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="60""></h2>
-<p><em>peruvian systems engineer <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3plYWVxNmtiNjA5cmhqOWhoaDZ4ZGo4ajMzcWUxbXVkdTRnd2FmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YFFGUPTPTRqIhwepA4/giphy.webp" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ5NmtwNm9uc2E0cGZraXN4a3k0YWo5N2ozNjU0ZWQyNWs0b3hvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v8jUfaclrsG9x8At9Z/giphy.webp" align="right"> 
+<p><em>peruvian systems engineer <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3plYWVxNmtiNjA5cmhqOWhoaDZ4ZGo4ajMzcWUxbXVkdTRnd2FmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YFFGUPTPTRqIhwepA4/giphy.webp" width="30"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQ5NmtwNm9uc2E0cGZraXN4a3k0YWo5N2ozNjU0ZWQyNWs0b3hvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v8jUfaclrsG9x8At9Z/giphy.webp" align="right"> 
 </em></p>
 
 [![Instagram: anderson7u7r](https://img.shields.io/badge/anderson7u7r-Instagram-E4405F?style=social&logo=instagram)](https://www.instagram.com/anderson7u7r?igsh=MzFvYWo5OXRpazY5)
