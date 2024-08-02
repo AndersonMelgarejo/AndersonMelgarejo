@@ -15,7 +15,7 @@ public class Anderson {
     private String[] code = {"JavaScript", "HTML", "CSS", "Python", "Java"};
     private String[] tools = {"React", "Docker", "Google Cloud"};
     private String[] microsoftTools = {"Excel", "Word", "PowerPoint"};
-    private String[] databases = {"SQL", "SQL Server"};
+    private String[] databases = {"MYSQL", "SQL Server"};
     
 }
 ```
